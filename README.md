@@ -1,3 +1,3 @@
 # FiniteDifference
 
-Numerical solver for wave equation using finite difference method with animated solution.
+Numerical solver for 1D wave equation using finite difference method with animated solution.
